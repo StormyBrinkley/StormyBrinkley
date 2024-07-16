@@ -2,9 +2,6 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-
-- <b>Resources (Creating Resouces in Azure)</b>
-  - [Create A Resource in Azure:](https://github.com/StormyBrinkley/creating_a_resource)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/StormyBrinkley/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/StormyBrinkley/post-install-config)
