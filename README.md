@@ -16,8 +16,4 @@
   <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 [<img align="left" alt="stormy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="stormy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-[YouTube]: https://www.youtube.com/@StormyBeLife
-[linkedin]: https://linkedin.com/in/StormyBrinkley
