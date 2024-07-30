@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/StormyBrinkley/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/StormyBrinkley/post-install-config)
+  - [osTicket: Post-Installation Configuration - Video](https://github.com/StormyBrinkley/post-install-config)
     
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/StormyBrinkley/azure-network-protocols)
