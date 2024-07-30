@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/StormyBrinkley/post-install-config)
     
 - <b>Microsoft Azure</b>
+  - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/StormyBrinkley/azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/StormyBrinkley/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/StormyBrinkley/azure-network-protocols)
 
