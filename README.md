@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration - Video](https://github.com/StormyBrinkley/post-install-config)
     
 - <b>Microsoft Azure</b>
-  - [VPN](https://github.com/StormyBrinkley/create-a-vpn-/blob/main/README.md)
+  - [Creating A VPN using Azure and ProtonVPN](https://github.com/StormyBrinkley/create-a-vpn-/blob/main/README.md)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/StormyBrinkley/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/StormyBrinkley/azure-network-protocols)
 
