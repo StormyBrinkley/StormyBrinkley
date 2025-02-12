@@ -19,3 +19,7 @@
 <a href="https://www.linkedin.com/in/stormybrinkley/" target="_blank">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
+<h2>👨‍💻 UX/UI Projects:</h2>
+- <b>UX/UI Casestudies</b>
+  - [Figma: FoodStop CaseStudy](https://github.com/StormyBrinkley/FoodStopUX)
